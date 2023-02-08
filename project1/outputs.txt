@@ -1,0 +1,8 @@
+1 Bulbasaur Grass
+Vine_Whip Razor_Leaf Solarbeam Growl 
+1 1 11
+1 1 1 4 
+4 Charmander Fire
+Scratch Ember Flamethrower Rage 
+37 Vulpix Fire
+Flame_Burst Confuse_Ray Fire_Spin Payback 
